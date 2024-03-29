@@ -1,0 +1,45 @@
+{
+    "board":{ 
+    "current": { 
+     "members":[   {"order":"0", "name": "Sivakumar Shanmugam", "title": "President", "phone":"(910) 617-3466"}, 
+        {"order":"0","name": "Venkat Natarajan", "title": " Vice President","phone":"(803) 261-6665"}, 
+        {"order":"0","name": " Prabhu Ganesan", "title": "Secretary","phone":"(803) 447-8319"},         
+        {"order":"0","name": "Prakasam Annamalai", "title": "Cultural Secretary","phone":"(843) 452-0281"}, 
+        
+        {"order":"0","name": "Rajshree Murugesan", "title": "Treasurer","phone":"(803) 357-8663"}         
+    ],
+    "nonmembers":[
+        {"order":"0","name": " Muthu Velusamy", "title": "IT & Technology","phone":"(501) 681-1431"}
+    ] }, 
+    "other" :[
+        {
+        "year":"2018",
+        "members":[
+            {"order":"0", "name": "Ravi Chokkalingam", "title": "President", "phone":""}, 
+            {"order":"0","name": "Suba Muthukumar", "title": " Vice President","phone":""}, 
+            {"order":"0","name": " Sivakumar Sanmugam", "title": "Secretary","phone":""},         
+            {"order":"0","name": "Prakasam Annamalai", "title": "Cultural Secretary","phone":""},             
+            {"order":"0","name": "Rajshree Murugesan", "title": "Treasurer","phone":""}         
+        ],
+        "nonmembers":[
+            {"order":"0", "name": "Viji Saravanan", "title": "Literacy Coordinator", "phone":""}, 
+            {"order":"0","name": "Amal Yagulasamy", "title": "Technology Coordinator","phone":""}            
+        ] 
+    },
+    {
+        "year":"2017",
+        "members":[
+            {"order":"0", "name": "Ganesh Radhakrishnan", "title": "President", "phone":""}, 
+            {"order":"0","name": "Ravi Chokkalingam", "title": " Vice President","phone":""}, 
+            {"order":"0","name": " Sivakumar Sanmugam", "title": "Secretary","phone":""},         
+            {"order":"0","name": "Thiagu Chanderasekaran", "title": "Cultural Secretary","phone":""},             
+            {"order":"0","name": "Rajshree Murugesan", "title": "Treasurer","phone":""}         
+        ],
+        "nonmembers":[
+            {"order":"0", "name": "Viji Saravanan", "title": "Literacy Coordinator", "phone":""}, 
+            {"order":"0","name": "Chithan Periasamy", "title": "Technology Coordinator","phone":""}            
+        ] 
+    }
+    ]
+}
+}
